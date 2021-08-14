@@ -1,4 +1,4 @@
-# kernel-5-4-140-sigmade
+# Linux Kernel 5.4.140-sigmade
 
 Lite version for server
 
