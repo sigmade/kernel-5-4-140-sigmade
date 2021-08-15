@@ -5,6 +5,3 @@ wget https://sourceforge.net/projects/kernel-5-4-140-sigmade/files/linux-kernel-
 tar -xvf kernel.tar
 dpkg -i headers.deb image.deb libc-dev.deb
 rm kernel.tar
-
-#Check
-uname -r
